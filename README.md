@@ -1,7 +1,8 @@
 # UpdateEmployeeByID
-PUT REST for Update Employee by Id
+PUT REST for Update Employee by Id.
 
-This REST is usind dynamo mapper to save the data ( this function automatically creates or updates the table )
+This REST is usind dynamo mapper to save the data ( this function automatically creates or updates the table ).
+
 
 End Point is : https://vsdc77v5ph.execute-api.us-west-2.amazonaws.com/prod/updateemployee?id=1
 Sample JSON : 
